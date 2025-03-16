@@ -1,0 +1,14 @@
+# Ignore Firebase credentials
+rental_agreement_chatbot/auth/adminsdk.json
+
+# Ignore Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.env
+venv/
+
+# Ignore Streamlit and system logs
+.streamlit/
+*.log
+rental_agreement_chatbot/auth/*.json
